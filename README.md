@@ -1,1 +1,1 @@
-Jargon Generator web application
+## Jargon Generator web application
