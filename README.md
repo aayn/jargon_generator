@@ -1,1 +1,1 @@
-# jargon_generator
+Jargon Generator web application
